@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:stream_gold_rate/src/features/gold/presentation/gold_screen.dart';
 
+
 class App extends StatelessWidget {
   const App({super.key});
 
